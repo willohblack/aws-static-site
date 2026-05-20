@@ -1,4 +1,4 @@
-# AWS S3 Static Website Hosting with CloudFront
+<img width="1917" height="895" alt="image" src="https://github.com/user-attachments/assets/48d0ed6f-12a4-495c-ab34-f620fb68f20d" /># AWS S3 Static Website Hosting with CloudFront
 
 ## 📌 Project Overview
 
@@ -151,19 +151,22 @@ Configured an S3 bucket policy to allow CloudFront access only.
 
 ## Homepage
 
-![Homepage](screenshots/homepage.png)
+<img width="1917" height="895" alt="image" src="https://github.com/user-attachments/assets/38e779e1-4e3f-4b73-97ac-cb3e7db9638b" />
+
 
 ---
 
 ## CloudFront Distribution
 
-![CloudFront](screenshots/cloudfront.png)
+<img width="1912" height="875" alt="image" src="https://github.com/user-attachments/assets/bd658bc3-9ddd-4c11-b3f5-45a7e1139c61" />
+
 
 ---
 
 ## S3 Bucket Configuration
 
-![S3 Bucket](screenshots/s3-bucket.png)
+<img width="1911" height="836" alt="image" src="https://github.com/user-attachments/assets/4e99c514-d5b2-452a-bc2c-0fff6ee9bbe9" />
+
 
 ---
 
