@@ -334,4 +334,4 @@ Successfully deployed a secure static website hosted on Amazon S3 and distribute
 Aspiring Cloud & Infrastructure Engineer
 
 * LinkedIn: [Molefi Mothibi](https://www.linkedin.com/in/m-mothibi/)
-* Youtube: [Molefi Mothibi](https://youtu.be/dnMtymmB0pg)
+* Project Link: [Molefi Mothibi](https://youtu.be/dnMtymmB0pg)
