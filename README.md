@@ -333,5 +333,5 @@ Successfully deployed a secure static website hosted on Amazon S3 and distribute
 
 Aspiring Cloud & Infrastructure Engineer
 
-* LinkedIn: add-your-link
-* GitHub: add-your-link
+* LinkedIn: [add-your-link](https://www.linkedin.com/in/m-mothibi/)
+* Youtube: [add-your-link](https://youtu.be/dnMtymmB0pg)
